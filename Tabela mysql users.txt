@@ -8,6 +8,4 @@ create table if not exists users (
 insert into users
 (name, username, password)
 values
-('Filipe', 'ADPULSE', 'I CAN DO THIS')
-
-select * from users 
+('Filipe', 'MYPULSE', 'I CAN DO THIS')
